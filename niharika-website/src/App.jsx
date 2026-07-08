@@ -26,7 +26,7 @@ function App() {
 
        <div className="justify-center justify-items-center self-center">
         <button className='bg-[#641736] pr-20 pl-20 pt-3 pb-3 mt-20 text-4xl text-[#ffe19a] rounded-4xl shadow-xl/50 shadow-[#210c03]'>
-          <YuyuStyled>Create a new account</YuyuStyled>
+          <h1>Create a new account</h1>
         </button>
        </div>
       
